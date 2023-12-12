@@ -11,4 +11,7 @@ Visual Basic 成为一个广泛使用的专业语言，主要有以下原因：
 它可以在各种计算机平台上编译。
 .Net 框架的一部分。
 
-isual Basic（VB） 是在 .NET Framework 上实现的一种面向对象的计算机编程语言。 
+visual Basic（VB） 是在 .NET Framework 上实现的一种面向对象的计算机编程语言。 
+
+目前用到的网络资源：
+https://www.vbtutor.net/chinese/lesson_Ch2.html
